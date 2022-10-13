@@ -22,9 +22,8 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Team Members
 
-**Please remember to update this section**
 
-- Person 1: one sentence about you!
+- Beth: My favourite movie is The Truman Show!
 - Person 2: one sentence about you!
 - Person 3: one sentence about you!
 
