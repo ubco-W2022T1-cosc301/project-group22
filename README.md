@@ -39,4 +39,5 @@ The dataset was provided by none other than VGchartz and the ratings were provid
 
 
 Acknowledgements
+
 This data comes from https://data.world/sumitrock/video-games-sales.
