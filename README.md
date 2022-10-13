@@ -1,4 +1,4 @@
-# Group 22 - {Video Game Sales Data}
+# Group 22 - Video Game Sales Data
 
 **Please remember to update this section**
 
