@@ -16,6 +16,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your dataset in about 150-200 words
 
+The dataset was provided by VGchartz. The dataset contains information of the video games such as their release date, sales, publishers, the number of users, etc. 
 **Please remember to update this section**
 
 {Add your stuff here}
