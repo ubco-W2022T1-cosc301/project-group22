@@ -1,4 +1,4 @@
-# Group YYY - {Short snappy Title of your project}
+# Group 22 - {Video Game Sales Data}
 
 **Please remember to update this section**
 
