@@ -38,6 +38,7 @@ The dataset was provided by VGchartz and the ratings were provided by Metacritic
 
 
 Acknowledgements
+
 This data comes from https://data.world/sumitrock/video-games-sales.
 
 
