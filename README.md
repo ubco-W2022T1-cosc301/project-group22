@@ -23,7 +23,7 @@ The dataset was provided by none other than VGchartz and the ratings were provid
 
 - Beth: My favourite movie is The Truman Show.
 - Jeremy: My favorite food is egg.
-- Subaru: I am not a big fan of Subarus.
+- Subaru: I am not a big fan of Subaru.
 
 ## Images
 
