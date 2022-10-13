@@ -15,7 +15,7 @@ We hope to get some interesting information about some of our favourite video ga
 ## Describe your dataset in about 150-200 words
 
 
-The dataset was provided by VGchartz and the ratings were provided by Metacritic. The dataset contains information of the video games such as their release date, sales in North America, sales in Japan, sales in Europe, sales in other continents, global sales, publishers, platform, critic score, critic count, developer, rating, the number of users, and the user scores. The dataset was collected from 1980 to 2016. The purpose of the dataset is to have fun and puruse our curiosity in video games. The dataset was collected from multiple sources by a human. 
+The dataset was provided by VGchartz and the ratings were provided by Metacritic. The dataset contains information of the video games such as their release date, sales in North America, sales in Japan, sales in Europe, sales in other continents, global sales, publishers, platform, critic score, critic count, developer, rating, the number of users, and the user scores. The dataset was collected from 1980 to 2016. The purpose of the dataset is to have fun and pursue our curiosity in video games since we grew up playng video games. The dataset was collected from multiple sources by a human. 
 
 ## Team Members
 
