@@ -16,7 +16,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 ## Describe your dataset in about 150-200 words
 
-The dataset was provided by VGchartz and the ratings were provided by Metacritic. The dataset contains information of the video games such as their release date, sales, publishers, the number of users, etc. The dataset was collected from 1980 to 2016. The purpose of the dataset is to have fun and puruse our curiosity in video games. 
+The dataset was provided by VGchartz and the ratings were provided by Metacritic. The dataset contains information of the video games such as their release date, sales, publishers, the number of users, etc. The dataset was collected from 1980 to 2016. The purpose of the dataset is to have fun and puruse our curiosity in video games. The dataset was collected from multiple sources by a human. 
 **Please remember to update this section**
 
 {Add your stuff here}
