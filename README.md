@@ -25,7 +25,7 @@ Details for Milestone are available on Canvas (left sidebar, Course Project).
 
 - Beth: My favourite movie is The Truman Show!
 - Jeremy: My favorite food is egg.
-- Person 3: one sentence about you!
+- Subaru: I am not a big fan of Subarus.
 
 ## Images
 
