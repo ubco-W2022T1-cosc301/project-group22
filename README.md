@@ -1,5 +1,6 @@
 # Group 22 - Video Game Sales Data
 
+**Please remember to update this section**
 
 - Your title can change over time.
 
@@ -15,7 +16,7 @@ We hope to get some interesting information about some of our favourite video ga
 ## Describe your dataset in about 150-200 words
 
 
-The dataset was provided by VGchartz and the ratings were provided by Metacritic. The dataset contains information of the video games such as their release date, sales in North America, sales in Japan, sales in Europe, sales in other continents, global sales, publishers, platform, critic score, critic count, developer, rating, the number of users, and the user scores. The dataset was collected from 1980 to 2016. The purpose of the dataset is to have fun and pursue our curiosity in video games since we grew up playng video games. The dataset was collected from multiple sources by a human. 
+The dataset was provided by none other than VGchartz and the ratings were provided by the famous website Metacritic. The dataset contains information of the video games such as their release date, sales in North America, sales in Japan, sales in Europe, sales in other continents, global sales, publishers, platform, critic score, critic count, developer, rating, the number of users, and the user scores. The dataset was collected from 1980 to December 22, 2016, although the specific date in 1980 is unspecified. The purpose of the dataset is to have fun and pursue our curiosity in video games. It's also to learn about different trends around video games such as how they can be publically recieved differently depending on the region, year of release, genre, etc.. It's also to learn information specifially about Ghost Trick: Phantom Detective for the Nintendo DS. The dataset was collected from multiple sources by a human, not a robot. 
 
 ## Team Members
 
@@ -35,11 +36,6 @@ The dataset was provided by VGchartz and the ratings were provided by Metacritic
 **Please remember to update this section**
 
 {Add your credits, acknowledgements, references, or citations **including a link to the data source** here}
-
-
-Acknowledgements
-
-This data comes from https://data.world/sumitrock/video-games-sales.
 
 
 
