@@ -45,8 +45,19 @@ A better plot type could have been used to display this data because there's a l
 
 
 ## Question 2
+### Which platform libraries have the highest balance of average user scores and global sales? ###
 
+To answer this question, we first need to create a new dataset containing each platform and their average global sales and average user score.
+We then need to drop any nan rows, and then create a new column for the "Score" that each platform gets.
+The score is determined by creating a "relative score" for both global sales and user score, and then adding them both together.
 
+![Chart for each platform's total score](images/totalscorechart.png)
+
+Using this chart, we can now create a bar graph visualization to more easily see the results.
+
+![Bar graph showing each platform's total score](images/totalscoregraph.png)
+
+As you can see from this graph, neither the highest selling or the highest reviewing platform libraries in this dataset ended up with the top score. The highest scoring platform is the one with the most even balance of both, so the one that came out on top is the PS4. The Xbox 360, PS3, and Wii are also not far behind. It's interesting because something like the DreamCast, which has the highest average review score, ended up in the bottom half because it simply didn't sell that many games. Along with this, the Wii U, which doesn't have very high global sales, is still in a respectable position because of it's highly reviewed games. It would be interesting to see where the older consoles would fit on this graph, as they don't have any user scores recorded so we sadly couldn't include them.
 
 ## Question 3
 ### Were there certain time frames where particular genres were trending?
