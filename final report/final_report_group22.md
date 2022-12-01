@@ -39,3 +39,14 @@ It is, however, also a very subjective aspect of this dataset. Most of these gam
 ![critic score by user count](criticxuser.png)
 
 A better plot type could have been used to display this data because there's a lot of overlapping points, it's difficult to view all the data. However, there is a clear relationship between critic score and user count.
+
+## Question 1
+
+
+
+## Question 2
+
+
+
+## Question 3
+
