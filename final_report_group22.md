@@ -49,4 +49,12 @@ A better plot type could have been used to display this data because there's a l
 
 
 ## Question 3
+### Were there certain time frames where particular genres were trending?
 
+![genre pairplot](images/genrespair.png)
+
+The upper right section of the plot shows clear peaks in genres, as well a general peak in sales overall. Globally, sports games have had a constant trend in popularity, however other genres like fighting have a high peak and immediate drop. These peaks were expected as games come in and out of popularity.
+
+![genre plot](images/genre.png)
+
+There's a clear 
