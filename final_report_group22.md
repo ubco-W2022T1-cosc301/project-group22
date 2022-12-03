@@ -55,8 +55,6 @@ Next, we need to look at why many platforms have reached 0. I am assuming this i
 The picture above shows the latest year of release for each platform. You can see the many platforms have stopped releasing games a while ago. So the reason behind platforms reaching 0 global sale is due to being outdated and the production of many new platforms. 
 Although many platforms have become outdated, there is one old platform that is still existing which is PC. As you can see in the first picture, the PC games existed from 1900s. And they are still releasing games in 2016. Some platforms are also existing like PS4, 3DS but this is because they are relatively new. But these new platforms also have decreasing global sales and it would eventually reach 0.
 
-Overall, many platforms have increasing global sale in the beginning but they began to decrease from a certain point. Some platforms have several fluctuations but most of them reached 0 eventually. This is because of the production of new platforms, and the old platforms have become outdated. An old platform, PC still exists today but the global sales is quite low compared to other new platforms. New platforms have higher global sales but similarly to other platforms, their global sales are decreasing from certain point and they would reach 0.
-
 
 ## Question 2
 ### Which platform libraries have the highest balance of average user scores and global sales? ###
