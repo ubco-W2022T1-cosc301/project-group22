@@ -60,12 +60,22 @@ Using this chart, we can now create a bar graph visualization to more easily see
 As you can see from this graph, neither the highest selling or the highest reviewing platform libraries in this dataset ended up with the top score. The highest scoring platform is the one with the most even balance of both, so the one that came out on top is the PS4. The Xbox 360, PS3, and Wii are also not far behind. It's interesting because something like the DreamCast, which has the highest average review score, ended up in the bottom half because it simply didn't sell that many games. Along with this, the Wii U, which doesn't have very high global sales, is still in a respectable position because of it's highly reviewed games. It would be interesting to see where the older consoles would fit on this graph, as they don't have any user scores recorded so we sadly couldn't include them.
 
 ## Question 3
-### Were there certain time frames where particular genres were trending?
+### Were there certain time frames where particular genres were trending? ### 
+
+To answer this question we'll have to consider the sales within each genre and the year of these sales, as well we'll take into account how many games are made of each genre. The full analysis notebook of this research question, along with the code can be found [here](https://github.com/ubco-W2022T1-cosc301/project-group22/blob/main/notebooks/analysis3.ipynb).
 
 ![genre pairplot](images/genrespair.png)
 
-The upper right section of the plot shows clear peaks in genres, as well a general peak in sales overall. Globally, sports games have had a constant trend in popularity, however other genres like fighting have a high peak and immediate drop. These peaks were expected as games come in and out of popularity.
+The upper right section of the plot shows clear peaks in genres, as well a general peak in sales overall. Globally, sports games have had a constant trend in popularity, however other genres like fighting have a high peak and immediate drop. These peaks were expected as games come in and out of popularity, but what are these trends consistent with? Do sports games come into demand around years the Olympics are hosted, for instance?
 
 ![genre plot](images/genre.png)
 
-There's a clear 
+It's interesting seeing the distribution favouring sports and action so heavily since action games don't have a high peak in the previous pair plot, but sports games did have a high peak around the early 2000's. It will be interesting to see if action games have had more of a steady level of popularity rather than a short lived trend.
+
+![seperate genre](images/sepgenre.png)
+
+Knowing this plot is ordered by averaghe sales, it makes sense that the two genres with the most games have made up for the most sales. Seeing also that action is first is interesting because it doesn't neccesarily peak like sports does, this shows that action games are more than just a quick trend that burns out and is really the top genre overall. Sports has a couple big peaks, which are consistent with the initial pair plot and the rest of the genres are fairly consistent with the previous bar graph. Sports seem to peak around 2006 and 2009, these years are not compatible with our previous inquiry into sports games trending around the Olympics. It's thought-provoking questioning whether the game developers know their audience that well and make games consistent with what will sell or the users are simply buying what's being made and these trends are more-so being curated by the developers.
+
+## Summary and Conclusions
+
+
