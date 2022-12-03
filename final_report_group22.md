@@ -51,12 +51,14 @@ The graph above shows the Plot of Global Sales by Year of Release for each Platf
 ### Which platform libraries have the highest balance of average user scores and global sales? ###
 
 To answer this question, we first need to create a new dataset containing each platform and their average Global Sales and average User Score.
-We then need to drop any nan rows, and then create a new column for the "Score" that each platform gets.
-The score is determined by creating a "relative score" for both Global Sales and User Score, and then adding them both together. The full notebook for this question 
-as well as other questions can be viewed [here](https://github.com/ubco-W2022T1-cosc301/project-group22/blob/main/notebooks/analysis2.ipynb).
+We then need to drop any nan rows, and then create a new column for the "Score" that each platform gets. The score is determined by creating
+a "relative score" for both Global Sales and User Score, and then adding them both together. The full notebook for this question as well as other questions
+can be viewed [here](https://github.com/ubco-W2022T1-cosc301/project-group22/blob/main/notebooks/analysis2.ipynb).
 
 ![Chart for each platform's total score](images/totalscorechart.png)
 
+The Relative Global Sales column is calculated simply by dividing each platform's Global Sales by the average Global Sales of all of them. The
+same is also done for User Score. And then, like previously stated, the Total Score is calculated by simply adding the two relative values together.
 Using this chart, we can now create a bar graph visualization to more easily view the results:
 
 ![Bar graph showing each platform's total score](images/totalscoregraph.png)
