@@ -92,5 +92,8 @@ It's interesting seeing the distribution favouring sports and action so heavily 
 Knowing this plot is ordered by averaghe sales, it makes sense that the two genres with the most games have made up for the most sales. Seeing also that action is first is interesting because it doesn't neccesarily peak like sports does, this shows that action games are more than just a quick trend that burns out and is really the top genre overall. Sports has a couple big peaks, which are consistent with the initial pair plot and the rest of the genres are fairly consistent with the previous bar graph. Sports seem to peak around 2006 and 2009, these years are not compatible with our previous inquiry into sports games trending around the Olympics. It's thought-provoking questioning whether the game developers know their audience that well and make games consistent with what will sell or the users are simply buying what's being made and these trends are more-so being curated by the developers.
 
 ## Summary and Conclusions
+All platforms have increasing global sale in the beginning and start to decrease from a certain point. Most of the old platforms reached 0 due to production of new platforms. And this could also be applied to the new platforms in the future.
+The platform with the most even balance of sales and user score for its games is the PS4, with the Xbox 360, PS3, and Wii not far behind. This shows that the total sales for a platform on its own aren't the full story when it comes to the public reception of the platform and its games.
+
 
 
