@@ -43,6 +43,8 @@ A better plot type could have been used to display this data because there's a l
 ## Question 1
 ### What is the general trend for each platform? ###
 To answer this question, we need to consider the global sales of each platform by year of release, and looking at the latest release year of each platform to analyze the general trend for each platform. The full analysis notebook of this research question and the code can be found [here](https://github.com/ubco-W2022T1-cosc301/project-group22/blob/main/notebooks/analysis1.ipynb)
+![trend image](images/q1image1)
+The graph above shows the Plot of Global Sales by Year of Release for each Platform. 
 
 ## Question 2
 ### Which platform libraries have the highest balance of average user scores and global sales? ###
