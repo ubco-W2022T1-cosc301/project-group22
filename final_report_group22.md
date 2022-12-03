@@ -41,8 +41,8 @@ It is, however, also a very subjective aspect of this dataset. Most of these gam
 A better plot type could have been used to display this data because there's a lot of overlapping points, it's difficult to view all the data. However, there is a clear relationship between critic score and user count.
 
 ## Question 1
-
-
+### What is the general trend for each platform? ###
+To answer this question, we need to consider the global sales of each platform by year of release, and looking at the latest release year of each platform to analyze the general trend for each platform. The full analysis notebook of this research question and the code can be found here. 
 
 ## Question 2
 ### Which platform libraries have the highest balance of average user scores and global sales? ###
