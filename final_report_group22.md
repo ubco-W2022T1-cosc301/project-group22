@@ -45,7 +45,11 @@ A better plot type could have been used to display this data because there's a l
 To answer this question, we need to consider the global sales of each platform by year of release, and looking at the latest release year of each platform to analyze the general trend for each platform. The full analysis notebook of this research question and the code can be found [here](https://github.com/ubco-W2022T1-cosc301/project-group22/blob/main/notebooks/analysis1.ipynb)
 
 ![trend image](images/q1image1.png)
-The graph above shows the Plot of Global Sales by Year of Release for each Platform. 
+The graph above shows the Plot of Global Sales by Year of Release for each Platform. As you can see, many platforms have increasing global sales in the beginning but they all start to decrease at a certain point. Some platforms have reached 0 like DC, and DS. 
+Next, we need to look at why many platforms have reached 0. I am assuming this is because they have become outdated. 
+![trend image](images/q1image2.png)
+The picture above shows the latest year of release for each platform. You can see the many platforms have stopped releasing games a while ago. 
+
 
 ## Question 2
 ### Which platform libraries have the highest balance of average user scores and global sales? ###
