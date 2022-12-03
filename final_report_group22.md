@@ -67,13 +67,12 @@ can be viewed [here](https://github.com/ubco-W2022T1-cosc301/project-group22/blo
 
 ![Chart for each platform's total score](images/totalscorechart.png)
 
-The Relative Global Sales column is calculated simply by dividing each platform's Global Sales by the average Global Sales of all of them. The
-same is also done for User Score. And then, like previously stated, the Total Score is calculated by simply adding the two relative values together.
+The Relative Global Sales column is calculated simply by dividing each platform's Average Global Sales for it's game library by the average Global Sales of all of them combined. The same is also done for User Score. And then, like previously stated, the Total Score is calculated by simply adding the two relative values together.
 Using this chart, we can now create a bar graph visualization to more easily view the results:
 
 ![Bar graph showing each platform's total score](images/totalscoregraph.png)
 
-As you can see from this graph, neither the highest selling or the highest reviewing platform libraries in this dataset ended up with the top score. The highest scoring platform is the one with the most even balance of both, so the one that came out on top is the PS4. The Xbox 360, PS3, and Wii are also not far behind. It's interesting because something like the DreamCast, which has the highest average review score, ended up in the bottom half because it simply didn't sell that many games. Along with this, the Wii U, which doesn't have very high global sales, is still in a respectable position because of it's highly reviewed games. It would be interesting to see where the older consoles would fit on this graph, as they don't have any user scores recorded so we sadly couldn't include them.
+As you can see from this graph, neither the highest selling or the highest reviewing platform libraries in this dataset ended up with the top score. The highest scoring platform is the one with the most even balance of both, so the one that came out on top is the PS4. The Xbox 360, PS3, and Wii are also not far behind. It's interesting because something like the DreamCast, which has the highest average review score for its games, ended up in the bottom half because it simply didn't sell that many games. Along with this, the Wii U, which doesn't have very high global sales on its own, is still in a respectable position because of it's highly reviewed games that all sold relatively well. It would be interesting to see where the older consoles would fit on this graph, as they don't have any user scores recorded so we sadly couldn't include them.
 
 ## Question 3
 ### Were there certain time frames where particular genres were trending? ### 
