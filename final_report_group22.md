@@ -95,7 +95,7 @@ Knowing this plot is ordered by averaghe sales, it makes sense that the two genr
 All platforms have increasing global sale in the beginning and start to decrease from a certain point. Most of the old platforms reached 0 global sales due to production of new platforms with the exception of PC which still exists today. Although new platforms have higher global sales compared to the old ones, it would be outdated in the near future. 
 The platform with the most even balance of sales and user score for its games is the PS4, with the Xbox 360, PS3, and Wii not far behind. This shows that the total sales for a platform on its own aren't the full story when it comes to the public reception of the platform and its games.
 
-We learned that communication is important in working on a project. It was difficult to schedule meetings since we all have different class schedules and lifstyle but somehow managed to complete the project through consistent communications. We faced some conflicts regarding pushing our commits but were able to find a way to deal with it. 
+We learned that communication is important in working on a project. It was difficult to schedule meetings since we all have different class schedules and lifstyle but somehow managed to complete the project through consistent communications. We faced some conflicts regarding pushing our commits but were able to find a way to deal with it. Through this projectm, we were able to enhance our understanding of git commands and the use of seaborn and python.  
 
 
 
